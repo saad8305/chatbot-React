@@ -1,0 +1,3 @@
+This is a simple chat bot developed with React+Vite .
+to use, fisrt install packages like node moduls, json files etc....
+i use local knowledge database its so simple without backend and server.
